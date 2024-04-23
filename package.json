@@ -1,7 +1,7 @@
 {
-  "name": "express-boilerplate",
+  "name": "server",
   "version": "1.0.0",
-  "description": "Template repository for a standard express application",
+  "description": "",
   "main": "server/server.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,6 @@
     "dev": "nodemon server/server.js"
   },
   "author": "",
-  "license": "ISC",
   "devDependencies": {
     "eslint": "^8.56.0",
     "eslint-config-airbnb-base": "^15.0.0",

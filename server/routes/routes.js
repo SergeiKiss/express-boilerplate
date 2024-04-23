@@ -2,7 +2,7 @@ import express from 'express';
 import {
   exampleController1,
   exampleController2,
-} from '../controllers/example-controllers.js';
+} from '../controllers/controllers.js';
 
 const router = express.Router();
 
